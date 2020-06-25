@@ -5,8 +5,6 @@ metadata:
   labels:
     name: db-service
     app: demo-voting-app
-# name is specified to db instead of postgres because the worker pod is looking for db and not postgres
-
 spec:
   ports:
     - port: 5432

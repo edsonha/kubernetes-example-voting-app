@@ -5,3 +5,5 @@ How to set up in Google Cloud Platform:
 3. Create pods yml file
 4. Create Services - ClusterIP - Internal
 5. Create Sevices - LoadBalancer - External
+6. Push to github and do git clone on the google shell
+7. Run kubectl command from the google shell to create and deploy the yml file
