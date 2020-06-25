@@ -7,3 +7,5 @@ How to set up in Google Cloud Platform:
 5. Create Sevices - LoadBalancer - External
 6. Push to github and do git clone on the google shell
 7. Run kubectl command from the google shell to create and deploy the yml file
+
+v2 is working with deployment instead of pod for various reasons
